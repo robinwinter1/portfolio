@@ -2,7 +2,7 @@ import React from "react";
 
 export const AboutMePage: React.FC = () => {
   return (
-    <div className="container py-5">
+    <div className="container py-5 text-white">
       <div className="text-center mb-5">
         <h1 className="display-4">About Me</h1>
         <p className="lead">Get to know more about me.</p>
